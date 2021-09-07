@@ -1,0 +1,51 @@
+.stats {
+    border-radius: 7px;
+    text-align: center;
+    height: auto;
+    padding-top: 1vw;
+    background: #32325d;
+}
+
+.user_table {
+    border-radius: 7px;
+    text-align: center;
+    padding-top: 1vw;
+    background: #32325d;
+    height: 80%;
+    overflow: auto;
+}
+
+
+.userSums { 
+    border-radius: 7px;
+    text-align: center;
+    background: #32325d;
+    height: 60%;
+    overflow: auto;
+}
+
+.col1 { 
+    margin-left: 3vw;
+    width: 80vw;
+    height: 80vh;
+}
+
+.col2 { 
+    margin-left: 3vw;
+    width: 35vw;
+    height: 80vh;
+}
+
+.col_title {
+    color: white;
+    font-size: 2rem;
+}
+
+.table_div {
+    height: 75vh;
+    overflow: auto;
+}
+
+a {
+    color: white;
+}

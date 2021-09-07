@@ -1,0 +1,24 @@
+{
+  "name": "aurora_proxies_dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "connect-mongo": "^4.4.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.13",
+    "passport": "^0.4.1",
+    "passport-discord": "^0.1.4",
+    "stripe": "^8.131.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

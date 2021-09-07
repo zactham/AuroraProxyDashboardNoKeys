@@ -1,0 +1,13 @@
+{
+  "PORT": "3000",
+  "FRONTEND_DOMAIN": "http://localhost:3000",
+  "BACKEND_DOMAIN": "https://auroraproxiesdashboard.herokuapp.com",
+  "ROUTES": {
+    "discord_session": "/dashboard/access-discord-info",
+    "dashboard_user": "/dashboard/access-user-data",
+    "mongo_user": "/access-mongo-user"
+  },
+  "STRIPE_PUBLIC_TEST": "...",
+  "STRIPE_PUBLIC_LIVE": "...",
+  "MONGO_ISPS_OBJECT_ID" : "..."
+}

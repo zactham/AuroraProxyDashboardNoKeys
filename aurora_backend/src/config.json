@@ -1,0 +1,6 @@
+{
+  "FRONTEND_DOMAIN": "https://dashboard.auroraproxies.com/",
+  "ROUTES": {
+    "dashboard": "/dashboard"
+  }
+}
