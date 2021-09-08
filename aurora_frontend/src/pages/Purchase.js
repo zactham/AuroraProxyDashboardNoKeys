@@ -19,10 +19,6 @@ import { loadStripe } from '@stripe/stripe-js';
 
 const stripePromise = loadStripe(`${config.STRIPE_PUBLIC_TEST}`);
 
-
-
-
-
 const useStyles = makeStyles((theme) => ({
   grid: 
   {
